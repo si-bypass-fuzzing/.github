@@ -1,6 +1,6 @@
 # Are your Sites Truly Isolated?
 
-This organization holds the code to the NDSS'26 publication _Are your Sites Truly Isolated? Automatically Detecting Logic Bugs in Site Isolation Implementations_.
+This organization holds the code to the NDSS'26 publication **Are your Sites Truly Isolated? Automatically Detecting Logic Bugs in Site Isolation Implementations**.
 We implemented two new oracles for site isolation bypass vulnerabilities: The leak sanitizer detects cross-site data leaks, and the process sanitizer detects cross-site process reuse.
 Both oracles are implemented as browser patches.
 
