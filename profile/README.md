@@ -21,5 +21,5 @@ The paper can be found [here](https://www.ias.cs.tu-bs.de/publications/are_your_
 - **[fuzzer](https://github.com/si-bypass-fuzzing/fuzzer):** The fuzzer that instruments the browser and generates HTML/JS documents
 - **[chromium](https://github.com/si-bypass-fuzzing/chromium):** A fork of Chromium with our patches to add the IPC fuzzer and oracles
 - **[gecko-dev](https://github.com/si-bypass-fuzzing/gecko-dev):** A fork of the legacy Firefox mirror with our patches to add the IPC fuzzer and oracles
-- **[webild.js](https://github.com/si-bypass-fuzzing/webidl.js):** A fork the W3C WebIDL parser, patched to work on the modified WebIDL grammars of Chromium and Firefox
+- **[webidl2.js](https://github.com/si-bypass-fuzzing/webidl2.js):** A fork the W3C WebIDL parser, patched to work on the modified WebIDL grammars of Chromium and Firefox
 - **[fuzzorigin](https://github.com/si-bypass-fuzzing/fuzzorigin):** A fork of the UXSS fuzzer Fuzzorigin, used in our evaluation
